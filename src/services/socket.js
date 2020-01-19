@@ -1,6 +1,6 @@
 import socketio from 'socket.io-client';
 
-const socket = socketio('https://semanaoministack10-backend.herokuapp.com',{
+const socket = socketio('https://semanaomnistack10-backend.herokuapp.com',{
     autoConnect: false
 });
 
